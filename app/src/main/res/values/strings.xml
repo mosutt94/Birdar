@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bird Finder</string>
+    <string name="birdFinderLogoText">Bird Finder</string>
+    <string name="defaultEditText">Bufflehead</string>
+    <string name="bird_activity_default">Preparing data</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps_sand_box">Map</string>
+    <string name="title_activity_maps2">Map</string>
+</resources>
